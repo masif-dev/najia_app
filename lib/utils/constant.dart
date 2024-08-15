@@ -1,5 +1,11 @@
 import 'dart:ui';
 
+class RevenueConstants {
+  static String revenueCatIosKeyNajiaApp = 'appl_CjXvMDoKinSXyEaGvREgavVqMJy';
+  static String revenueCatAndroidKeyNajiaApp =
+      'goog_XiHRZcCwETYDPDljhHzHznCgYbe';
+}
+
 class NajiaColors {
   static const black = Color(0xff151429);
   static const bgColor = Color(0xffFEF5ED);
