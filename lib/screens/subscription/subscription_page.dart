@@ -5,7 +5,6 @@ import 'package:flutter/services.dart';
 import 'package:purchases_flutter/purchases_flutter.dart';
 
 import '../../utils/constant.dart';
-import 'constant.dart';
 
 class SubscriptionsPlansPage extends StatefulWidget {
   const SubscriptionsPlansPage({super.key});
